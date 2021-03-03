@@ -1,0 +1,8 @@
+{
+  "port": 5000,
+  "jwtSecret": "Danik",
+  "mongoUri": "mongodb+srv://mdanik:Agamyanrafael1@cluster0-kdnmn.mongodb.net/roadservice",
+  "baseUrl": "http://localhost:5000",
+  "emailSender": "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",
+  "email": "daniyarmurza@gmail.com"
+}
